@@ -1,7 +1,7 @@
 <h1 align="center">
     CPU Limit
     <br/><br/>
-    <a><img src="https://raw.githubusercontent.com/mxnt10/whats/master/common/preview.png"></a>
+    <a><img src="https://raw.githubusercontent.com/mxnt10/cpu-limit/master/preview.png"></a>
 </h1>
 
 CPU Frequency Limit Tool Fork from the GameLinux Youtube channel for Slackware.

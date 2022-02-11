@@ -21,7 +21,7 @@ ZENITY_TITLE=$(
 ZENITY_SELECT_CLOCK_MAX=$(
 	zenity \
 		--window-icon="/usr/share/icons/Adwaita/256x256/legacy/system-run.png" \
-		--title='Frequência Limite da CPU' \
+		--title='Frequência Limite da CPU v1.0' \
 		--cancel-label="Sair" \
 		--ok-label="Aplicar" \
 		--text="<span size=\"large\">$ZENITY_TITLE</span>"\

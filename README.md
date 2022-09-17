@@ -23,14 +23,14 @@
     <h3>CPU Frequency Limit Tool Fork from the GameLinux Youtube channel for Slackware.</h3>
     <br/>
     <h2 style="font-weight:bold; margin-bottom: 15px;">Required Packages</h2>
-    <label background="#111111" style="background: #111111; border: 10px solid #111111; color: write; border-radius: 10px; font-family:Hack;">
+    <label style="background: #111111; border: 10px solid #111111; color: #ffffff; border-radius: 10px; font-family:Hack;">
         Zenity >=
         <label style="color: #0fff3f; font-weight:bold">3.32.0</label>
     </label>
     <br/><br/><br/>
     <h2 style="font-weight:bold"> Installation Instructions</h2>
-    <h3>To install cpu-limit, use the following commands:</h3>
-    <p background="#111111" style="background: #111111; border: 10px solid #111111; color: write; border-radius: 10px; font-family:Hack">
+    <h4>To install cpu-limit, use the following commands:</h4>
+    <p style="background: #111111; border: 10px solid #111111; color: #ffffff; border-radius: 10px; font-family:Hack">
         <label style="color: #0fff3f; font-weight:bold">$</label> git clone https://github.com/mxnt10/cpu-limit.git <br/>
         <label style="color: #0fff3f; font-weight:bold">$</label> cd cpu-limit<br/><br/>
         <label style="color: #0fff3f; font-weight:bold">$</label> sudo ./install.sh
@@ -42,7 +42,7 @@
             This repository has scripts that were created to be free software. Therefore, they can be distributed and/or modified within the terms of the
             <label style="font-weight:bold; color: #0080ff">GNU General Public License</label>.
         </p>
-        <div background="#111111" style="background: #111111; border: 10px solid #111111; color: write; border-radius: 10px">
+        <div style="background: #111111; border: 10px solid #111111; color: #ffffff; border-radius: 10px">
             <a href="https://pt.wikipedia.org/wiki/GNU_General_Public_License">General Public License</a>
             <br/><br/>
             <p>Free Software Foundation (FSF) Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA</p>

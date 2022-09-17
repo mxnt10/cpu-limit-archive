@@ -37,7 +37,7 @@
     </p>
     <br/>
     <h2 style="font-weight:bold"> GNU General Public License</h2>
-    <h3>
+    <h4>
         <p>
             This repository has scripts that were created to be free software. Therefore, they can be distributed and/or modified within the terms of the
             <label style="font-weight:bold; color: #0080ff">GNU General Public License</label>.
@@ -47,17 +47,17 @@
             <br/><br/>
             <p>Free Software Foundation (FSF) Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA</p>
         </div>
-    </h3>
+    </h4>
     <br/>
     <h2 style="font-weight:bold"> Comments</h2>
-    <h3> 
+    <h4> 
         <p>In case of bugs, problems of execution or construction of packages, constructive criticism, among others, please submit a message to one of the contacts below.</p>
-    </h3>
+    </h4>
     <br/>
     <h2 style="font-weight:bold"> Contact</h2>
-    <h3>
+    <h4>
         Maintainer: <label style="font-style:italic;">Mauricio Ferrari</label><br/>
         E-Mail: <label style="font-style:italic; color: #0080ff">m10ferrari1200@gmail.com</label><br/>
         Telegram: <label style="font-style:italic; color: #0080ff">@maurixnovatrento</label><br/>
-    </h3>
+    </h4>
 </div>

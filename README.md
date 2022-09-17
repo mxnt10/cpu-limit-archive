@@ -1,5 +1,5 @@
-<div style="">
-    <h1 style="text-align: center; font-size: 36px">
+<div>
+    <h1 align="center" style="text-align: center; font-size: 36px">
         <label style="font-weight:bold">CPU Limit - CPU Frequency Limit</label>
         <br>
         <img src="https://img.shields.io/badge/Platform-Linux-blue?style=flat-square"/>

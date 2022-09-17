@@ -1,5 +1,5 @@
 <h1 align="center">
-    <label>CPU Limit - CPU Frequency Limit</label>
+    <b>CPU Limit - CPU Frequency Limit</b>
         <br>
         <img src="https://img.shields.io/badge/Platform-Linux-blue?style=flat-square"/>
         <a href="/LICENSE">
@@ -22,11 +22,11 @@
 
 CPU Frequency Limit Tool Fork from the GameLinux Youtube channel for Slackware.
 
-### Required packages
+<h2><b>Required Packages</b></h2>
 
-<img src="https://img.shields.io/badge/Zenity%20>=-3.32.0-00aa00?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Zenity%20>=-v3.32.0-00aa00?style=flat-square"/><br/>
 
-### Installation instructions
+<h2><b>Installation Instructions</b></h2>
 
 To install "cpu-limit", use the following commands:
 ```sh
@@ -36,7 +36,7 @@ $ cd cpu-limit
 $ sudo ./install.sh
 ```
 
-### GNU General Public License
+<h2><b>GNU General Public License</b></h2>
 
 This repository has scripts that were created to be free software.<br/>
 Therefore, they can be distributed and/or modified within the terms of the *GNU General Public License*.
@@ -45,12 +45,12 @@ Therefore, they can be distributed and/or modified within the terms of the *GNU 
 >
 >Free Software Foundation (FSF) Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 
-### Comments
+<h2><b>Comments</b></h2>
 
 In case of bugs, problems of execution or construction of packages, constructive criticism, among others,
 please submit a message to one of the contacts below.
 
-### Contact
+<h2><b>Contact</b></h2>
 
 Maintainer: Mauricio Ferrari<br/>
 E-Mail: *m10ferrari1200@gmail.com*<br/>
